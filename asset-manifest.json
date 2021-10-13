@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/clubmaniademo-new/static/css/main.3a141b3e.chunk.css",
+    "main.js": "/clubmaniademo-new/static/js/main.e0704658.chunk.js",
+    "main.js.map": "/clubmaniademo-new/static/js/main.e0704658.chunk.js.map",
+    "runtime-main.js": "/clubmaniademo-new/static/js/runtime-main.4a551a0c.js",
+    "runtime-main.js.map": "/clubmaniademo-new/static/js/runtime-main.4a551a0c.js.map",
+    "static/js/2.c91c88c3.chunk.js": "/clubmaniademo-new/static/js/2.c91c88c3.chunk.js",
+    "static/js/2.c91c88c3.chunk.js.map": "/clubmaniademo-new/static/js/2.c91c88c3.chunk.js.map",
+    "index.html": "/clubmaniademo-new/index.html",
+    "static/css/main.3a141b3e.chunk.css.map": "/clubmaniademo-new/static/css/main.3a141b3e.chunk.css.map",
+    "static/js/2.c91c88c3.chunk.js.LICENSE.txt": "/clubmaniademo-new/static/js/2.c91c88c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a551a0c.js",
+    "static/js/2.c91c88c3.chunk.js",
+    "static/css/main.3a141b3e.chunk.css",
+    "static/js/main.e0704658.chunk.js"
+  ]
+}
